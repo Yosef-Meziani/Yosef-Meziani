@@ -8,17 +8,18 @@ Extra Stuff
 
 Además de la Tecnología tengo otras aficiones, te cuento un poco más.
 
-Travel ✈️ 
+Travel 
 «Viajar libera el alma» es la mejor opción para conocerme a mí mismo.
 
-Books 📕 
+Books 
 Me encantan los libros de negocio, de psicología, y tecnología.
 
-Cine 🎥 
+Cine 
 Me gustan más las series que las pelis. 
 
-Music 🧑‍🎤 
+Music  
 Escucho música y podcast prácticamente todo el día.
+
 
 
 
