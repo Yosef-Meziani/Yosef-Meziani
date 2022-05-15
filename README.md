@@ -1,6 +1,6 @@
 ### Hi i´m Yosef 👋, 
 
--Knowledge Is Everything-✌️✌️
+
 
 More About Me 🫶🏼
 
