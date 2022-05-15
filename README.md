@@ -36,8 +36,8 @@ Extraer datos recolectados y analizarlos,foco en analizar el presente de la orga
 
 ⚜️ ML ENGINEER
 Construir productos basados en inteligencia artificial, la tarea es escalar y robustecer modelos de IA para funcionar en sistemas de producción de software.
-<br>
 
+<br>
  **Soft Skills**👀👀
 </br>
 ⚜️ FEEDBACK
@@ -50,10 +50,11 @@ Comunicación efectiva, aplicando la teoría de comportamientos, de contingencia
 
 ⚜️ ORATORIA
 Discursos claros, para que tengan el mayor impacto.
-<br>
 
+<br>
 💠 Tech Skills🤖🤖🤖
 </br>
+
 01. HTML
 02. CSS
 03. JS
