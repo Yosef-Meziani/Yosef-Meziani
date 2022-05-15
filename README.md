@@ -36,10 +36,10 @@ Extraer datos recolectados y analizarlos,foco en analizar el presente de la orga
 
 ⚜️ ML ENGINEER
 Construir productos basados en inteligencia artificial, la tarea es escalar y robustecer modelos de IA para funcionar en sistemas de producción de software.
-
+<br>
 
  **Soft Skills**👀👀
-
+</br>
 ⚜️ FEEDBACK
 Gestionar cómo dar y cómo recibir feedback, de compañeros, clientes, y tecnología.
 
@@ -50,9 +50,10 @@ Comunicación efectiva, aplicando la teoría de comportamientos, de contingencia
 
 ⚜️ ORATORIA
 Discursos claros, para que tengan el mayor impacto.
-
+<br>
 
 💠 Tech Skills🤖🤖🤖
+</br>
 01. HTML
 02. CSS
 03. JS
@@ -77,12 +78,13 @@ Discursos claros, para que tengan el mayor impacto.
 22. Azure
 23. Docker
 24. Kubernetes
-
+<br>
 
 Fórmate en Data Science puedes hacerlo en menos de 1 año! ❤️ puedes ampliar información en:
 
 https://www.yosefmeziani.com/cursos 
 
+</br>
 🚀 Vamos desde 0 (program básica) pasamos por matemáticas y acabamos en Machine Learning e Inteligencia Artificial con cloud de Google y AWS . 
 Aplicando el BigData como ingrediente principal junto con el conocimiento de las startup’s. 
 
@@ -95,16 +97,18 @@ https://yosefmeziani.com/cursos/matematicas-analisis-datos/
 3. MÁSTER MACHINE LEARNING & IA 🧠 
 https://yosefmeziani.com/cursos/master-machine-learning/
 
+<br>
 
 👩‍💼 Si tienes algún proyecto/producto que impacte en millones de personas y agregar valor , puedes contactarme para colaborar. 
 
 Puedes hacerlo en :
 https://www.yosefmeziani.com/contact 
 
-
+</br> 
+<br>
 📖 BLOG: https://yosefmeziani.com/blog/
 
-
+</br>
 
 <!--
 **Yosef-Meziani/Yosef-Meziani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
