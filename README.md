@@ -20,11 +20,11 @@ Me gustan más las series que las pelis.
 Music  
 Escucho música y podcast prácticamente todo el día.
 
-
+<br>
 
 
 **My Skills**💁
-
+</br>
 
 ⚜️ DATA SCIENTIST
 Entender al negocio y sus datos para agregar valor a la organización con toma de decisiones basadas en datos e incorporar datos a los productos de software.
